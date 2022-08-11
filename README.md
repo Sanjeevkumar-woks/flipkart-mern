@@ -3,6 +3,7 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 
 [Visit Now](https://flipkartweb.herokuapp.com/) 🚀
 
+<p> User Credentials </p>
 <h1> Username: Sanju@gmail.com </h1>
 <h1> Password : Sanju@143 </h1>
 
