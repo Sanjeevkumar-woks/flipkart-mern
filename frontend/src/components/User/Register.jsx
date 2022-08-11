@@ -203,7 +203,13 @@ const Register = () => {
                     {/* <!-- signup column --> */}
                 </div>
                 {/* <!-- row --> */}
-
+                <div className='ml-80'>
+                <p><small>If you are facing error please use the below Credential Example for reference</small></p>
+                <p><small>Name: sanju <br/>
+                Email: sanju@gmail.com<br/>
+                password: Sanju@143<br/>
+                        </small></p>
+                </div>
             </main>
         </>
     );
