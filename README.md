@@ -1,7 +1,7 @@
 # Flipkart-MERN
 Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 
-[Visit Now](https://flipkartweb.herokuapp.com/) 🚀
+[Visit Now](http://flipkartwebs.herokuapp.com/) 🚀
 
 <p> User Credentials </p>
 <h1> Username: Sanju@gmail.com </h1>
